@@ -15,7 +15,7 @@
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
     "express-error-handle": "^1.0.2",
-    "mongoose": "^6.2.3",
+    "mongoose": "^6.4.6",
     "node-linkedin": "^0.5.6",
     "passport": "^0.5.2",
     "passport-linkedin-oauth2": "^2.0.0",
